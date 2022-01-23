@@ -6,12 +6,12 @@ Python anaconda environment, PyTorch, RDKit, subword-nmt
 
 ## Install commands
 ### Virtual environment
-conda create -n LIGHTHOUSE_demo
+conda create -n LIGHTHOUSE_demo<br>
 conda activate LIGHTHOUSE_demo
 ### Install dependencies
-conda install pytorch==1.9.0 -c pytorch
-conda install matplotlib
-conda install scikit-learn
+conda install pytorch==1.9.0 -c pytorch<br>
+conda install matplotlib<br>
+conda install scikit-learn<br>
 conda install -c conda-forge jupyterlab
 
 conda install -c rdkit rdkit=2021.03.4
