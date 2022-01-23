@@ -2,7 +2,21 @@
 This is the repository for the results presented in our manuscript. Please see the <a href='https://github.com/Shimizu-group/LIGHTHOUSE/blob/main/DEMO.ipynb'>DEMO.ipynb</a> file.
 
 Dependencies:
-Anaconda environment, PyTorch, RDKit, subword-nmt
+Python anaconda environment, PyTorch, RDKit, subword-nmt
+
+## Install commands
+### Virtual environment
+conda create -n LIGHTHOUSE_demo
+conda activate LIGHTHOUSE_demo
+### Install dependencies
+conda install pytorch==1.9.0 -c pytorch
+conda install matplotlib
+conda install scikit-learn
+conda install -c conda-forge jupyterlab
+
+conda install -c rdkit rdkit=2021.03.4
+### Clone this repository
+
 ## Basic Usage
 ### Initialization
 LIGHTHOUSE.setups()
