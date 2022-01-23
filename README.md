@@ -1,5 +1,5 @@
 # LIGHTHOUSE
-This is the repository for the results presented in our manuscript. Please see the <a href='https://github.com/Shimizu-group/LIGHTHOUSE/blob/main/DEMO.ipynb'>DEMO.ipynb</a> file.
+This is the repository for the results presented in <a href='https://www.biorxiv.org/content/10.1101/2021.09.25.461785v1.full'>our manuscript</a>. Please see the <a href='https://github.com/Shimizu-group/LIGHTHOUSE/blob/main/DEMO.ipynb'>DEMO.ipynb</a> file.
 
 Dependencies:
 Python anaconda environment, PyTorch, RDKit, subword-nmt
